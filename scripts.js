@@ -11,7 +11,7 @@ if (numb == 5);
     // If it is, they got it right
     {
         alert('You guess the right number!');
-    }else{
+    } else {
         // If it isn't, they got it wrong
         alert('You chose poorly...');
     }
